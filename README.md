@@ -1,6 +1,6 @@
 ## Hi there, I'm Syd! 👋
 
-Artificial Intelligence student at the University of California, San Diego (UCSD)<br>Interest in Machine Learning, AI, Neural Networks, and Sports Analytics<br>Currently:<br> - Working on a research paper on numerical comparison circuits across model families<br> - Revamping AISC website on the software developer board for the AI Student Collective at UCSD<br> - Developing side projects in free time<br><br> 
+Freshman studying Artificial Intelligence at the University of California, San Diego (UCSD)<br>Interest in Machine Learning, AI, Neural Networks, and Sports Analytics<br>Currently:<br> - Working on a research paper on numerical comparison circuits across model families<br> - Revamping AISC website on the software developer board for the AI Student Collective at UCSD<br> - Developing side projects in free time<br><br> 
 
 
 ## 🌐 Socials:
